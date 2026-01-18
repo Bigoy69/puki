@@ -77,3 +77,5 @@ max_timestep = 1000
 min_snr_gamma = 5
 scale_weight_norms = 5
 seed = 2951032222
+
+# FIX_GIT_COMMIT_TRIGGER
